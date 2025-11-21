@@ -12,6 +12,6 @@ These days, I focus on **Artificial Intelligent for IT Operations (AIOps)**.
 - B.Eng in Computer Science (Aug 2015 – Jan 2020)
 
 ### Work Experience
-- Applied Scientist II (Intern) — Amazon Web Services (May – Sep 2025)
-- Founding AI/ML Engineer — NofireAI (Present)
-- AI/ML Engineering Lead — Cinnamon AI (2019–2022)
+- Applied Scientist II (Intern) - Amazon Web Services (May - Sep 2025)
+- Founding AI/ML Engineer (2025 - Present)
+- AI/ML Engineering Lead (2019 - 2022)
