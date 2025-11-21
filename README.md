@@ -8,8 +8,8 @@ My background spans Computer Vision, Machine Learning, and Software Engineering.
 These days, I focus on **Artificial Intelligent for IT Operations (AIOps)**.
 
 ### Education
-- Ph.D. in Computer Science, RMIT University (Dec 2022 – Apr 2026)
-- B.Eng in Computer Science, HCMUT (Aug 2015 – Jan 2020)
+- Ph.D. in Computer Science (Dec 2022 – Apr 2026)
+- B.Eng in Computer Science (Aug 2015 – Jan 2020)
 
 ### Work Experience
 - Applied Scientist II (Intern) — Amazon Web Services (May – Sep 2025)
