@@ -1,6 +1,6 @@
 ### Hi there, I'm Miles (aka. Luan Pham) 👋
 
-I'm an Applied Scientist, who do both **reseach** and **engineering**. This [GitHub](#) showcases the engineering side of my work. You can visit my [Google Scholar](https://scholar.google.com/citations?view_op=list_works&update_op=upload_photo&hl=en) to check my publications and my homepage at [google.site/phamquiluan](https://sites.google.com/view/phamquiluan/home) for my CV and a list of [my awards](https://sites.google.com/view/phamquiluan/home#h.91zrw6tbmd5t).
+I'm an Applied Scientist, who do both **reseach** and **engineering**. This [GitHub](#) showcases the engineering side of my work. You can visit my [Google Scholar](https://scholar.google.com/citations?user=YRS7knwAAAAJ&hl=en) to check my publications and my homepage at [google.site/phamquiluan](https://sites.google.com/view/phamquiluan/home) for my CV and a list of [my awards](https://sites.google.com/view/phamquiluan/home#h.91zrw6tbmd5t).
 
 ### What I do
 I use computing to solve hard, practical problems.
